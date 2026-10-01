@@ -1,0 +1,64 @@
+{
+  "PDisney": [
+    {
+      "nome": "Mickey Mouse",
+      "numero": "91",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mickey_Mouse.png",
+      "cargo": "Presidente"
+    },
+    {
+      "nome": "Tio Patinhas",
+      "numero": "91",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/f/f3/Scrooge_McDuck.png",
+      "cargo": "Governador(a)"
+    },
+    {
+      "nome": "Minnie Mouse",
+      "numero": "916",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/b/b2/Minnie_Mouse.png",
+      "cargo": "Senador(a)"
+    },
+    {
+      "nome": "Pluto",
+      "numero": "919",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/7/7b/Pluto_dog.png",
+      "cargo": "Senador(a)"
+    },
+    {
+      "nome": "Mago Merlin",
+      "numero": "9133",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/3/30/Merlin_Disney.png",
+      "cargo": "Deputado(a) Federal"
+    },
+    {
+      "nome": "Zé Carioca",
+      "numero": "9157",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/6/6f/Jose_Carioca.png",
+      "cargo": "Deputado(a) Federal"
+    },
+    {
+      "nome": "Pato Donald",
+      "numero": "9100",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck.png",
+      "cargo": "Deputado(a) Federal"
+    },
+    {
+      "nome": "Pateta",
+      "numero": "91080",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/a/a6/Goofy_Character.png",
+      "cargo": "Deputado(a) Estadual"
+    },
+    {
+      "nome": "Margarida",
+      "numero": "91750",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/f/f6/Daisy_Duck.png",
+      "cargo": "Deputado(a) Estadual"
+    },
+    {
+      "nome": "Gastão",
+      "numero": "91777",
+      "foto": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gladstone_Gander.png",
+      "cargo": "Deputado(a) Estadual"
+    }
+  ]
+}

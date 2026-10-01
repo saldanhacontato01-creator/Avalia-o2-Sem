@@ -1,0 +1,14 @@
+{
+  "PDisney": [
+    { "nome": "Mickey Mouse", "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mickey_Mouse.png" },
+    { "nome": "Minnie Mouse", "foto": "https://upload.wikimedia.org/wikipedia/en/b/b2/Minnie_Mouse.png" },
+    { "nome": "Pato Donald", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck.png" },
+    { "nome": "Pateta", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a6/Goofy_Character.png" },
+    { "nome": "Pluto", "foto": "https://upload.wikimedia.org/wikipedia/en/7/7b/Pluto_dog.png" },
+    { "nome": "Tio Patinhas", "foto": "https://upload.wikimedia.org/wikipedia/en/f/f3/Scrooge_McDuck.png" },
+    { "nome": "Margarida", "foto": "https://upload.wikimedia.org/wikipedia/en/f/f6/Daisy_Duck.png" },
+    { "nome": "Zé Carioca", "foto": "https://upload.wikimedia.org/wikipedia/en/6/6f/Jose_Carioca.png" },
+    { "nome": "Mago Merlin", "foto": "https://upload.wikimedia.org/wikipedia/en/3/30/Merlin_Disney.png" },
+    { "nome": "Gastão", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gladstone_Gander.png" }
+  ]
+}
